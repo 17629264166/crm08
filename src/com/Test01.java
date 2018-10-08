@@ -6,6 +6,7 @@ public class Test01 {
 		// TODO Auto-generated method stub
 		System.out.println("hello,github·þÎñÆ÷");
 		System.out.println("ok,github服务器 return 01");
+		System.out.println("github服务器 update 01");
 
 	}
 
